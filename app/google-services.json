@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "79734013671",
+    "project_id": "sdr-search",
+    "storage_bucket": "sdr-search.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79734013671:android:5c99bd78454e573de96c42",
+        "android_client_info": {
+          "package_name": "com.gtech.dbsearch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtKFYkrbWqMeDYzaBb6ITsr6dVKDrcM0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
